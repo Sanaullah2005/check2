@@ -9,5 +9,16 @@
     ],
     "correctOptionIndex": 0,
     "imageName": "Sign.jpg"
+  },
+  {
+    "question": "ASF",
+    "options": [
+      "DSFZ",
+      "SDZ",
+      "SDZ",
+      "SDXZ"
+    ],
+    "correctOptionIndex": 0,
+    "imageName": "q1.png"
   }
 ]
