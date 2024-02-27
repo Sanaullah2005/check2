@@ -26,5 +26,19 @@
     "uploadDate": "27/2/2024",
     "username": "inaya",
     "imageName": "HANDS.jpg"
+  },
+  {
+    "question": "dfrx",
+    "options": [
+      "est",
+      "dry",
+      "rdy",
+      "rdyh"
+    ],
+    "correctOptionIndex": 0,
+    "subject": "Chemistry",
+    "uploadDate": "27/2/2024",
+    "username": "inaya",
+    "imageName": "HANDS.jpg"
   }
 ]
