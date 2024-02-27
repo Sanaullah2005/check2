@@ -152,5 +152,19 @@
     "uploadDate": "27/2/2024",
     "username": "inaya",
     "imageName": "q6.png"
+  },
+  {
+    "question": "szF",
+    "options": [
+      "sadf",
+      "sdfa",
+      "sdf",
+      "sdaf"
+    ],
+    "correctOptionIndex": 0,
+    "subject": "Physics",
+    "uploadDate": "27/2/2024",
+    "username": "inaya",
+    "imageName": "q6.png"
   }
 ]
