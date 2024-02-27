@@ -96,5 +96,18 @@
     "subject": "Botany",
     "uploadDate": "27/2/2024",
     "imageName": "q5.png"
+  },
+  {
+    "question": "DASZF",
+    "options": [
+      "SDZF",
+      "DSVF",
+      "DASF",
+      "DFVS"
+    ],
+    "correctOptionIndex": 0,
+    "subject": "Zoology",
+    "uploadDate": "27/2/2024",
+    "imageName": "q4.png"
   }
 ]
