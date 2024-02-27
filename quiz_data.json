@@ -31,5 +31,18 @@
     ],
     "correctOptionIndex": 0,
     "imageName": "q1.png"
+  },
+  {
+    "question": "SDS",
+    "options": [
+      "SDS",
+      "SDS",
+      "SDS",
+      "SDS"
+    ],
+    "correctOptionIndex": 0,
+    "subject": "Botany",
+    "uploadDate": "2024-02-27T09:14:16.644Z",
+    "imageName": "q2.png"
   }
 ]
