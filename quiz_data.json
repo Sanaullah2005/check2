@@ -50,5 +50,19 @@
     "subject": "Zoology",
     "uploadDate": "27/2/2024",
     "imageName": "q4.png"
+  },
+  {
+    "question": "aDS",
+    "options": [
+      "saF",
+      "sdaf",
+      "sdf",
+      "sdaf"
+    ],
+    "correctOptionIndex": 0,
+    "subject": "Zoology",
+    "uploadDate": "27/2/2024",
+    "username": "sds",
+    "imageName": "q4.png"
   }
 ]
