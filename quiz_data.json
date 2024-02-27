@@ -57,5 +57,18 @@
     "subject": "Chemistry",
     "uploadDate": "27/2/2024, 2:47:10 pm",
     "imageName": "q3.png"
+  },
+  {
+    "question": "ASDZF",
+    "options": [
+      "asd",
+      "SDF",
+      "SD",
+      "SDF"
+    ],
+    "correctOptionIndex": 0,
+    "subject": "Zoology",
+    "uploadDate": "27/2/2024",
+    "imageName": "q6.png"
   }
 ]
