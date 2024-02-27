@@ -44,5 +44,18 @@
     "subject": "Botany",
     "uploadDate": "2024-02-27T09:14:16.644Z",
     "imageName": "q2.png"
+  },
+  {
+    "question": "ESDRTF",
+    "options": [
+      "DRZ",
+      "DZF",
+      "FDXH",
+      "FHX"
+    ],
+    "correctOptionIndex": 0,
+    "subject": "Chemistry",
+    "uploadDate": "27/2/2024, 2:47:10 pm",
+    "imageName": "q3.png"
   }
 ]
