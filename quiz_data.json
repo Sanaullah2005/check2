@@ -166,5 +166,19 @@
     "uploadDate": "27/2/2024",
     "username": "inaya",
     "imageName": "q6.png"
+  },
+  {
+    "question": "dxf",
+    "options": [
+      "zxv",
+      "xzv",
+      "zxv",
+      "zvx"
+    ],
+    "correctOptionIndex": 0,
+    "subject": "Physics",
+    "uploadDate": "27/2/2024",
+    "username": "inaya",
+    "imageName": "q6.png"
   }
 ]
