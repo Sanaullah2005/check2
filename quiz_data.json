@@ -12,33 +12,5 @@
     "uploadDate": "27/2/2024",
     "username": "sds",
     "imageName": "q4.png"
-  },
-  {
-    "question": "1",
-    "options": [
-      "1",
-      "1",
-      "1",
-      "1"
-    ],
-    "correctOptionIndex": 0,
-    "subject": "Physics",
-    "uploadDate": "27/2/2024",
-    "username": "inaya",
-    "imageName": "1709054447663.png"
-  },
-  {
-    "question": "2",
-    "options": [
-      "2",
-      "2",
-      "2",
-      "2"
-    ],
-    "correctOptionIndex": 0,
-    "subject": "Physics",
-    "uploadDate": "27/2/2024",
-    "username": "inaya",
-    "imageName": "1709054447663.png"
   }
 ]
