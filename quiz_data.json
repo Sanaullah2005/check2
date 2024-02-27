@@ -96,5 +96,19 @@
     "uploadDate": "27/2/2024",
     "username": "inaya",
     "imageName": "q5.png"
+  },
+  {
+    "question": "sdfc",
+    "options": [
+      "ZC",
+      "zCX",
+      "zv",
+      "zxv"
+    ],
+    "correctOptionIndex": 0,
+    "subject": "Chemistry",
+    "uploadDate": "27/2/2024",
+    "username": "inaya",
+    "imageName": "q6.png"
   }
 ]
