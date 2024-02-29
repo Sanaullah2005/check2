@@ -54,5 +54,33 @@
     "uploadDate": "29/2/2024",
     "username": "sds",
     "imageName": "sds17091769719662f6cc372c1bb47e6ba4c27781.png"
+  },
+  {
+    "question": "Number of biodiversity mainly seen as",
+    "options": [
+      "Organism",
+      "Genus",
+      "Family",
+      "Species"
+    ],
+    "correctOptionIndex": 3,
+    "subject": "Botany",
+    "uploadDate": "29/2/2024",
+    "username": "sds",
+    "imageName": ""
+  },
+  {
+    "question": "Which is more",
+    "options": [
+      "Discovered species",
+      "Total species",
+      "Undiscovered species",
+      "Total genus"
+    ],
+    "correctOptionIndex": 1,
+    "subject": "Physics",
+    "uploadDate": "29/2/2024",
+    "username": "sds",
+    "imageName": ""
   }
 ]
