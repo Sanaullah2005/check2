@@ -278,5 +278,33 @@
     "uploadDate": "1/3/2024",
     "username": "sds",
     "imageName": "sds17092981117788dfbe91ddf344b44bdbc5fa51.png"
+  },
+  {
+    "question": "the A boy of height H want to see his full image in a plan mirror find minimum length of mirror required to see his full image",
+    "options": [
+      "H",
+      "H/2",
+      "H/3",
+      "H/4"
+    ],
+    "correctOptionIndex": 1,
+    "subject": "Physics",
+    "uploadDate": "1/3/2024",
+    "username": "sds",
+    "imageName": ""
+  },
+  {
+    "question": "A man wants to See full Image of wall behined him of Heigh 'H', if He is standing b/w wall and mirror then required length of mirror ",
+    "options": [
+      "H",
+      "H/4",
+      "3H/4",
+      "2H/4"
+    ],
+    "correctOptionIndex": 1,
+    "subject": "Physics",
+    "uploadDate": "1/3/2024",
+    "username": "sds",
+    "imageName": ""
   }
 ]
