@@ -217,5 +217,18 @@
     "uploadDate": "1/3/2024",
     "username": "sds",
     "imageName": "sds1709274863274a53ab70228a84d4389593e612.png"
+  },
+  {
+    "question": "",
+    "options": [
+      "(2, 4) ",
+      "(2, -4) ",
+      "(-2, -4) ",
+      "All"
+    ],
+    "correctOptionIndex": 2,
+    "uploadDate": "1/3/2024",
+    "username": "sds",
+    "imageName": "sds170927503461848aa1549cda04cc690f693051.png"
   }
 ]
