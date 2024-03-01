@@ -273,34 +273,6 @@
       "Option 3",
       "Option 4"
     ],
-    "correctOptionIndex": 2,
-    "subject": "Physics",
-    "uploadDate": "1/3/2024",
-    "username": "sds",
-    "imageName": "sds1709282398050a60adca126414ab2a33d25f11.png"
-  },
-  {
-    "question": "",
-    "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
-    ],
-    "correctOptionIndex": 2,
-    "subject": "Physics",
-    "uploadDate": "1/3/2024",
-    "username": "sds",
-    "imageName": "sds17092976733468fb33e0a9da64af380637a521.png"
-  },
-  {
-    "question": "",
-    "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
-    ],
     "correctOptionIndex": 1,
     "subject": "Physics",
     "uploadDate": "1/3/2024",
@@ -315,80 +287,10 @@
       "Option 3",
       "Option 4"
     ],
-    "correctOptionIndex": 2,
-    "subject": "Physics",
-    "uploadDate": "1/3/2024",
-    "username": "sds",
-    "imageName": "sds1709297826013ab9efeceb5ee48edab9ec1ee1.png"
-  },
-  {
-    "question": "",
-    "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
-    ],
     "correctOptionIndex": 0,
     "subject": "Physics",
     "uploadDate": "1/3/2024",
     "username": "sds",
     "imageName": "sds17092981117788dfbe91ddf344b44bdbc5fa51.png"
-  },
-  {
-    "question": "",
-    "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
-    ],
-    "correctOptionIndex": 2,
-    "subject": "Physics",
-    "uploadDate": "1/3/2024",
-    "username": "sds",
-    "imageName": "sds1709298560860cad74916bf39468dad345b1b1.png"
-  },
-  {
-    "question": "",
-    "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
-    ],
-    "correctOptionIndex": 2,
-    "subject": "Physics",
-    "uploadDate": "1/3/2024",
-    "username": "sds",
-    "imageName": "sds1709298848288f4d779da8c8d40b2aca3d9021.png"
-  },
-  {
-    "question": "",
-    "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
-    ],
-    "correctOptionIndex": 2,
-    "subject": "Physics",
-    "uploadDate": "1/3/2024",
-    "username": "sds",
-    "imageName": "sds1709298910932720088e8aa7b4f2c93564af21.png"
-  },
-  {
-    "question": "",
-    "options": [
-      "Option 1",
-      "Option 2",
-      "Option 3",
-      "Option 4"
-    ],
-    "correctOptionIndex": 2,
-    "subject": "Physics",
-    "uploadDate": "1/3/2024",
-    "username": "sds",
-    "imageName": "sds1709298940569fa1934b30e764395816e80d91.png"
   }
 ]
