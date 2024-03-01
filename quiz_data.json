@@ -306,5 +306,19 @@
     "uploadDate": "1/3/2024",
     "username": "sds",
     "imageName": ""
+  },
+  {
+    "question": "if Theta is the angle b/w two plane mirror then find (i), (ii), (iii), (iv)",
+    "options": [
+      "23, 10, 7, 6",
+      "22, 11, 7, 5",
+      "23, 11, 7, 5",
+      "None"
+    ],
+    "correctOptionIndex": 0,
+    "subject": "Physics",
+    "uploadDate": "2/3/2024",
+    "username": "sds",
+    "imageName": "sds1709319990542e0e6dc13c7e24b3f8f11c4011.png"
   }
 ]
