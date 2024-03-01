@@ -230,5 +230,19 @@
     "uploadDate": "1/3/2024",
     "username": "sds",
     "imageName": "sds170927503461848aa1549cda04cc690f693051.png"
+  },
+  {
+    "question": "",
+    "options": [
+      "2, 4",
+      "2, -4",
+      "-2, -4",
+      "all"
+    ],
+    "correctOptionIndex": 2,
+    "subject": "Physics",
+    "uploadDate": "1/3/2024",
+    "username": "sds",
+    "imageName": "sds170927574147461f88dd05d1b4e1ba94ff0471.png"
   }
 ]
