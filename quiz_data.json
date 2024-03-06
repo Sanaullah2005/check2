@@ -334,5 +334,19 @@
     "uploadDate": "2/3/2024",
     "username": "sds",
     "imageName": "sds17093280146746b72ad3560ae44b48278c1281.png"
+  },
+  {
+    "question": "light wave acc to huygen\n(A) EM Wave\n(B) Transverse wave\n(C) Mechanical wave\n(D) Longitudinal wave",
+    "options": [
+      "Both (A) & (B)",
+      "Both (C) & (B)",
+      "Both (A) & (D)",
+      "Both (C) & (D)"
+    ],
+    "correctOptionIndex": 3,
+    "subject": "Physics",
+    "uploadDate": "6/3/2024",
+    "username": "sds",
+    "imageName": ""
   }
 ]
