@@ -404,5 +404,19 @@
     "uploadDate": "10/3/2024",
     "username": "Sds",
     "imageName": "sds1710055935745005b59a9778d44e283860b391.png"
+  },
+  {
+    "question": "If the velocity of an electron is doubled, its de Broglie frequency will",
+    "options": [
+      "Be halved",
+      "Remain same",
+      "Be doubled",
+      "Become four times"
+    ],
+    "correctOptionIndex": 1,
+    "subject": "Physics",
+    "uploadDate": "10/3/2024",
+    "username": "Sds",
+    "imageName": ""
   }
 ]
