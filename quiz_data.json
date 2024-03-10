@@ -348,5 +348,19 @@
     "uploadDate": "6/3/2024",
     "username": "sds",
     "imageName": ""
+  },
+  {
+    "question": "If the frequency of light incident on a metallic plate be doubled, how will the maximum kinetic energy of the photoelectrons change?",
+    "options": [
+      "It becomes more than double ",
+      "It becomes less than double",
+      "It becomes exactly double",
+      "It does not change"
+    ],
+    "correctOptionIndex": 0,
+    "subject": "Physics",
+    "uploadDate": "10/3/2024",
+    "username": "Sds",
+    "imageName": ""
   }
 ]
