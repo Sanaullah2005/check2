@@ -418,5 +418,19 @@
     "uploadDate": "10/3/2024",
     "username": "Sds",
     "imageName": ""
+  },
+  {
+    "question": "A object of mass M is at rest break into two part of ratio 2 : 3 then ratio of their de-Broglie wavelength.",
+    "options": [
+      "1:1",
+      "2:1",
+      "1:2",
+      "3:4"
+    ],
+    "correctOptionIndex": 0,
+    "subject": "Physics",
+    "uploadDate": "10/3/2024",
+    "username": "Sds",
+    "imageName": ""
   }
 ]
